@@ -6,7 +6,7 @@ function About() {
   return (
     <div className='about'>
       <h2>Hakkında Sayfası</h2>
-      <p>Bu sayfa hakkında bilgiler içerir.</p>
+      <p>Bu sayfa hakkında bilgiler içerir</p>
     </div>
   );
 }
